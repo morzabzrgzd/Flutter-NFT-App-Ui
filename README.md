@@ -1,4 +1,8 @@
-# nft_app
+# NFT App (Flutter Ui)
+
+Youtube link:https://www.youtube.com/watch?v=LCCFPbfM1D4
+
+![Flutter Login Ui (3)](https://user-images.githubusercontent.com/87581799/134552329-369601b5-1af8-45ac-a311-fd82fe5e7379.png)
 
 A new Flutter project.
 
